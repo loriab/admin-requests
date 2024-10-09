@@ -1,0 +1,6 @@
+action: broken
+packages:
+- osx-64/libtensorlight-3.0.1-h4d18d0e_7.conda
+- osx-arm64/libtensorlight-3.0.1-hfc5b166_7.conda
+- osx-64/libtensorlight-3.0.1-hce2654b_6.conda
+- osx-arm64/libtensorlight-3.0.1-had08727_6.conda
